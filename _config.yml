@@ -1,0 +1,14 @@
+layout_spectrum: 0.1271589
+typography_spectrum: 0.4755425
+color:
+  saturation: 0.1317913
+  lightness: 0.4513735
+  brandStrength: 0.3223843
+  rhythmicContrast: 0.3136173
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: KarmaEstates
